@@ -4,7 +4,7 @@ import Navbar from "./Navbar"
 
 const Home = () => {
   return (
-    <div>
+    <div className="bg-home">
       <Head>
         <title> Company Name </title>
       </Head>

@@ -3,8 +3,8 @@ import Image from "next/image";
 const Navbar = () => {
     return ( 
         <div>
-            <nav className="flex mt-5"> 
-                <p className="ml-20">Company Name</p>
+            <nav className="flex pt-5"> 
+                <p className="ml-20 font-bold tracking-widest">RADIATE</p>
                 <ul className="flex ml-auto">
                     <li className="ml-5">Home </li>
                     <li className="ml-5">Roadmap </li>
